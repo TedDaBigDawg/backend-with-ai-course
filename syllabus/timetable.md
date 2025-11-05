@@ -3,7 +3,7 @@
 This timetable lists all 14 sessions (1 per week), with links to the corresponding session materials.
 
 - Format: 1 class per week, 120 minutes per class
-- Suggested pattern: Weekly session (customize as needed)
+
 - Session docs live in lesson-plans/week-XX/session-01.md
 
 **How to use:**
